@@ -21,4 +21,8 @@ Data Visualization: Utilize libraries like Matplotlib, Seaborn, and Plotly for c
 Visualize trends, patterns, and insights in data through graphs and charts.
 
 # Key Insights
-
+1 Volume Of Stock traded.
+2 Netflix stock Price , High , Open , close.
+3 Netflix Stock price , Day , Month , YearWise.
+4 Top 5 dates with Highest Stock Price .
+5 Top 5 dates With Lowest stock Price.
